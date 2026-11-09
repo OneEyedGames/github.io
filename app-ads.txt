@@ -1,0 +1,4 @@
+# app-ads.txt for OneEyedGames (Orbito)
+# Replace these comment lines with the lines LevelPlay gives you:
+# LevelPlay dashboard -> your account / app settings -> app-ads.txt -> copy all lines and paste them below.
+# The file must be served at the root of the site that is entered as "Website" in the Play Console listing.
